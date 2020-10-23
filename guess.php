@@ -1,7 +1,7 @@
 <!Doctype html>
 <html lang=en">
 <body>
-<title>  f1e48562 </title>
+<title>f1e48562</title>
 <h1> Welcome to my guessing game</h1>
 
 <?php
